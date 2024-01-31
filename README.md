@@ -23,8 +23,9 @@ This Movie Recommender App allows you to receive personalized movie recommendati
 Follow these steps to set up the Movie Recommender App locally:
 
 **requirements.txt:**
-pandas==1.3.2
-streamlit==0.88.0
+
+pandas==2.1.4
+streamlit==1.29.0
 
 ## Dependencies
 
