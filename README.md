@@ -27,7 +27,7 @@ python==3.8.12
 pandas==2.1.4
 streamlit==1.29.0
 
-### Software And Tools Requirements
+## Software And Tools Requirements
 
 1. [Github Account](https://github.com)
 2. [VSCodeIDE](https://code.visualstudio.com/)
@@ -35,7 +35,7 @@ streamlit==1.29.0
 
 ## How to Run
 
-1. Clone the repository: `https://github.com/narasimhaswamy202/movie-recommender-app.git`
+1. Clone the repository: `git clone https://github.com/narasimhaswamy202/movie-recommender-app.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the Streamlit app using the command: `streamlit run main.py`
 
