@@ -39,5 +39,5 @@ streamlit==1.29.0
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the Streamlit app using the command: `streamlit run main.py`
 
-## Check out the streamlit app: https://ai-driven-agri-tech-app-tbl2xv23ab.streamlit.app/
+## Check out the streamlit app: https://movie-recommender-app-p2t9ul2heo3jam6pqdvfkn.streamlit.app/
 Feel free to contribute or report issues. Happy movie watching!
