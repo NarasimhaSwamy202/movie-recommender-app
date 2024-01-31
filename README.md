@@ -23,15 +23,15 @@ This Movie Recommender App allows you to receive personalized movie recommendati
 Follow these steps to set up the Movie Recommender App locally:
 
 **requirements.txt:**
-
+python==3.8.12
 pandas==2.1.4
 streamlit==1.29.0
 
-## Dependencies
+### Software And Tools Requirements
 
-- Python
-- pandas
-- Streamlit
+1. [Github Account](https://github.com)
+2. [VSCodeIDE](https://code.visualstudio.com/)
+3. [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 
 ## How to Run
 
@@ -39,4 +39,5 @@ streamlit==1.29.0
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the Streamlit app using the command: `streamlit run main.py`
 
+## Check out the streamlit app: https://ai-driven-agri-tech-app-tbl2xv23ab.streamlit.app/
 Feel free to contribute or report issues. Happy movie watching!
